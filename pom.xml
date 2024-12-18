@@ -11,8 +11,8 @@
 	<groupId>br.com.sicredi</groupId>
 	<artifactId>votacao</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>votacao</name>
-	<description>Sistemas de votacao</description>
+	<name>api-votacao</name>
+	<description>api de votacao</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
